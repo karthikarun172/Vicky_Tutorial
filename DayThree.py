@@ -7,8 +7,11 @@ def addtion():
     return a + b
 
 def sub():
-    return a * b
+    return a - b
 
+def multiply():
+    return a * b
+    
 c = 34
 g = 33
 
